@@ -1,0 +1,5 @@
+- Student number and name: St10453116-Josh-langdon
+- Repository: https://github.com/JoshLangdon2005/St10453116_IMAD5112_Practicum
+-Purpse & explanation: The application's purpose is to inform the applicion user what the average weather temperaturefrom an array of provided temperatures along user input.The Applicaton consists of 3 screens where the user is guided throught the algorithm via the user interface.
+-Psuedcode: https://advtechonline-my.sharepoint.com/:w:/g/personal/st10453116_vcconnect_edu_za/EQPZuPemrMVPr5NLudB8nQgB3txSzEDRSz1YBsJcLRjRAw?e=ezw2l7
+- 
